@@ -11,7 +11,7 @@ int main() {
    scanf("%d",&a);
    printf("Enter Marks of subject 2:");
    scanf("%d",&b);
-   avg=(a+b)/c;
+   avg=(a+b)/2;
    printf("Average=%.1f",avg);
    return 0;
 }
